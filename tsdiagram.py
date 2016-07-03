@@ -29,6 +29,10 @@ def ts(salt, temp, p=0, **kw):
     -------
         eyram.apetcho@gmail.com
 
+    Version
+    -------
+        0.1
+
     License
     -------
         BSD License, See the license

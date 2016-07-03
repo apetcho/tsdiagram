@@ -23,5 +23,7 @@ Requirements:
     :width:  200
     :scale:  50
 
-.. author:: Eyram K. Apetcho ``(eyram.apetcho@gmail.com)``
+:Author: Eyram K. Apetcho 
+:Contact: eyram.apetcho@gmail.com
+:Version: 0.1
 
