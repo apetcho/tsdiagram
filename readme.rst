@@ -23,3 +23,5 @@ Requirements:
     :width:  200
     :scale:  50
 
+.. author:: Eyram K. Apetcho ``(eyram.apetcho@gmail.com)``
+
