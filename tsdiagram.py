@@ -21,6 +21,13 @@ def ts(salt, temp, p=0, **kw):
         rholevels: numpy.array object or python list. A series of scalar value of
             density anomaly contours to be displayed  on the TS-diagram.
 
+    Author
+    ------
+        Eyram K. Apetcho
+
+    License
+    -------
+        BSD License, See the license
     """
     salt = np.array(salt)
     temp = np.array(temp)
