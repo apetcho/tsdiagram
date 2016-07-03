@@ -13,8 +13,8 @@ Requirements:
 `numpy`
     *For handling array numerics*
 `matplotlib`
-    *For plotting utilies*
-`gsw` or `seawater`
+    *For plotting utilities*
+`gsw`: Gibbs SeaWater Oceanographic Package of TEOS-10
     *For seawater equation of state. Mainly used here to calculate the absolute
     density.*
 
